@@ -3,7 +3,7 @@
 
   <groupId>org.springframework</groupId>
   <artifactId>sample-serving-web-content</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.1.0</version>
   <description>Example app from Spring.io guide to serve web content</description>
 
   <parent>
@@ -31,6 +31,7 @@
     <properties>
         <java.version>1.8</java.version>
     </properties>
+
 
 
     <build>
